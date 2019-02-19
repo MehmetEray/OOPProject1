@@ -1,0 +1,4 @@
+Name : computer ID : 2 Type : Electronics Description : The fastest computer in the world Price : 300.0 Quantity :6*
+Name : table ID : 1 Type : Manufacturing Description : The most useful table in the world Price : 200.0 Quantity :5*
+Name : Keyboard ID : 5 Type : Electronics Description : This keyboard has very useful features Price : 100.0 Quantity :2000*
+Name : war ID : 10 Type : Books Description : aaa Price : 30.0 Quantity :20*
